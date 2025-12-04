@@ -1,4 +1,4 @@
-## Finished Project 
+## Finished Project - Projet de l'atelier de travail - terminé
 On a ajouté une première branche Fonctions-Ajout-Images localement et poussé la branche à distance
 d'où nous avons effectué ce changement au ficher Readme. On valide ou commit ce petit changement et on tente de le 
 récupérer localement dans Visual Studio
